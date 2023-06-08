@@ -9,7 +9,7 @@
 
  
 ## PROJETO 
-O projeto de menu interativo, é uma aplicação que eu gostei de ter estudado/aprendido, a forma como ao clicar no menu a página se expande, mostrando outras opções de navegação é diferente de outras formas de aplicações que eu já vi. (pode ser reutilizado em outros projetos )
+O projeto de menu interativo, é uma aplicação que eu gostei de ter estudado/aprendido, a forma como ao clicar no menu a página se expande, mostrando outras opções de navegação é diferente de outras formas de aplicações que eu já vi (pode ser reutilizado em outros projetos ).
   
 ## TECNOLOGIAS 
 <div style="display: inline_block"><br>
